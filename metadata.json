@@ -1,0 +1,6 @@
+{
+  "name": "Smart Warehouse Operations & Order Fulfillment Intelligence Platform",
+  "description": "Enterprise warehouse operations intelligence platform with dynamic order prioritization, smart inventory allocation, AI decision support, picking route optimization, exception management, and what-if simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
